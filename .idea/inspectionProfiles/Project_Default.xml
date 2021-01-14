@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="sqlaclhemy" />
+          <option value="db_define.Products.Sizes_ref" />
+          <option value="db_define.Products.Sizes" />
+          <option value="db_define.Sizes.*" />
+          <option value="db_define.Patterns.*" />
+          <option value="db_define.Colours.*" />
+          <option value="nested_admin.NestedStackedInline" />
+          <option value="nested_admin.NestedModelAdmin" />
+          <option value="nested_admin.NestedTabularInline" />
+          <option value="db_define.Names.Types" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
